@@ -122,3 +122,4 @@ Container 2
 Server adalah layanan web yg bisa menerima request dari client dan mengembalikan respon.
 
 Reverse proxy bermanfaat untuk mengatur web yg ingin di tampilkan dan tidak, contoh nya untuk menyembunyikan internal backend biar ga bisa di akses.
+
